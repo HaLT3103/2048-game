@@ -11,8 +11,6 @@
 
 ## About 2048
 
-First project after 2.5 months of learning Python
-
 Game 2048 written in Python, pygame module. Also used SQLite for the database of players and their results.
 
 Maybe I'll rewrite this <s>miracle</s>
@@ -67,13 +65,4 @@ Run [`run.py`](./run.py) using the python interpreter
 <u><b>Mouse swipes are also available within the game area.</b></u>
 
 
-## Developers
 
-- [Qu1nel](https://github.com/Qu1nel)
-
-
-## License
-
-[MIT](./LICENSE) © [Ivan Kovach](https://github.com/Qu1nel/)
-
-This Project Qu1nel.2048 in distributive under the **[MIT License](./LICENSE)**, and it also uses those codes that are distributed under the **[MIT License](./LICENSE)**.
